@@ -12,6 +12,9 @@ Aside from client work, a major focus of ours is creating open source and our ow
 - Github: https://github.com/lamaau/tagihan.digital
 - Website: https://tagihan.digital
 
+**Hadir** - Attendance tools
+- Website: https://hadir.lamaau.space
+
 ## Content
 We sometimes write articles on our [blog](https://rizkhal.lamaau.space). 
 
